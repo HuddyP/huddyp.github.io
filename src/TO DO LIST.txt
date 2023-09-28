@@ -1,0 +1,5 @@
+TO DO LIST:
+
+- create other pages + materials/components within them
+- make routing to other pages work once each page is completed
+- dig into CSS and visual design from there
