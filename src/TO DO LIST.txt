@@ -1,5 +1,12 @@
 TO DO LIST:
 
 - create other pages + materials/components within them
-- make routing to other pages work once each page is completed
+- ensure routing as "multiple pages in one page" is working as intended
 - dig into CSS and visual design from there
+- look into extra ideas to implement to make site more impressive
+
+Ideas to Consider Implementing:
+
+- Consistently playing mp3 file that retains between pages (hence method of routing)
+- Adding animations to aspects of pages (hover animation for headshot and other pictures, smooth scrolling for different parts of pages, etc.)
+- 
