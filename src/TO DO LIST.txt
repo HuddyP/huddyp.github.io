@@ -8,6 +8,6 @@ TO DO LIST:
 
 Ideas to Consider Implementing:
 
-- Consistently playing mp3 file that retains between pages (hence method of routing)
+- Playing mp3 file that loops and continues to play between pages (hence method of routing)
 - Adding animations to aspects of pages (hover animation for headshot and other pictures, smooth scrolling for different parts of pages, etc.)
 - 
