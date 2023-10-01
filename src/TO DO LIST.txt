@@ -5,9 +5,10 @@ TO DO LIST:
 - dig into CSS and visual design from there
 - look into extra ideas to implement to make site more impressive
 - Add more "professional" type photos to spread throughout site
+- convert m4a file to mp3 and test if looping implementation works
+- create non-auto focused dialog that audio player is controllable in, place it either in the footer or slightly above it
 
 Ideas to Consider Implementing:
 
-- Playing mp3 file that loops and continues to play between pages (hence method of routing)
 - Adding animations to aspects of pages (hover animation for headshot and other pictures, smooth scrolling for different parts of pages, etc.)
 - 
