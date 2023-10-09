@@ -1,8 +1,49 @@
-<p>my-projects works!</p>
+<h1 class="header">
+  <br /><b>Wanna see what I can do? Here's some projects I've done!</b>
+</h1>
 
-<!-- Add this text once visual style and features have been decided and implemented:
-
-Curious about what I've worked on? Check these out:
-
-This very website! (https://github.com/HuddyP/Portfolio-Website)
-Other projects (add as they're created)-->
+<mat-grid-list cols="4" rowHeight="1:1">
+  <mat-grid-tile>
+    <mat-card class="standard-card">
+      <mat-card-header>
+        <mat-card-title>Portfolio Website</mat-card-title>
+        <mat-card-subtitle>You Are Here!</mat-card-subtitle>
+      </mat-card-header>
+      <a href="https://github.com/HuddyP/Portfolio-Website" target="_blank">
+        <img
+          mat-card-image
+          src="https://material.angular.io/assets/img/examples/shiba2.jpg"
+          alt="Image of my website's home page"
+          width="500px"
+          height="400px"
+        />
+      </a>
+      <mat-card-content>
+        <p>
+          <br />This very website that you're visiting! I built this website
+          myself using Angular, TypeScript, HTML and CSS. I also plan on keeping
+          it regularly updated throughout my career!
+        </p>
+      </mat-card-content>
+      <mat-card-actions>
+        <a href="https://github.com/HuddyP/Portfolio-Website" target="_blank">
+          <button mat-button>Visit the GitHub Repo!</button>
+        </a>
+      </mat-card-actions>
+    </mat-card>
+  </mat-grid-tile>
+  <mat-grid-tile>
+    <mat-card class="standard-card">
+      <mat-card-header>
+        <mat-card-title>More to Come...</mat-card-title>
+      </mat-card-header>
+      <mat-card-content>
+        <p>
+          I always like to keep at least one personal project going at any time.
+          So while they might not be ready to show, rest assured, there's
+          <i>something</i> in the pipeline right now!
+        </p>
+      </mat-card-content>
+    </mat-card>
+  </mat-grid-tile>
+</mat-grid-list>

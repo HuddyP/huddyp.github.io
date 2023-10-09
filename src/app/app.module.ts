@@ -6,6 +6,9 @@ import { AppComponent } from './app.component';
 import { HeadshotComponent } from './headshot/headshot.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { MatButtonModule } from '@angular/material/button';
+import { MatCardModule } from '@angular/material/card';
+import { MatGridListModule } from '@angular/material/grid-list';
 
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { HomeComponent } from './webpages/home/home.component';
@@ -34,6 +37,9 @@ import { AudioFabComponent } from './audio-fab/audio-fab.component';
     AppRoutingModule,
     BrowserAnimationsModule,
     MatToolbarModule,
+    MatButtonModule,
+    MatCardModule,
+    MatGridListModule,
   ],
   providers: [],
   bootstrap: [AppComponent],

@@ -2,12 +2,9 @@ TO DO LIST:
 
 Site Features:
 - create other pages + materials/components within them
-- ensure routing as "multiple pages in one page" is working as intended (do testing using audio player)
 - look into extra features to implement to make site more impressive
-- convert m4a file to mp3 and test if looping implementation works
-- create non-auto focused dialog that audio player is controllable in, try to figure out how to make it a consistent entity in the bottom right corner of user's screen, a la Twitter DMs tab
-    - consider using FAB button due to elevated visual nature and likely easier placement implementation
-    - consider usage of FundamentalNGX library since it has wider dialog implementation and customizability
+- find working library or tutorial to make an audio player COMPONENT that works on Angular 16
+    - figure out if player should be integrated into a fab button, or just give it fab button properties to sit on bottom right corner of screen
 - Look into other libraries to possibly implement features (also find out if using and mixing multiple libraries can cause issues)
     - FundamentalNGX
     - PrimeNG
@@ -27,3 +24,9 @@ Ideas to Consider Implementing:
 - Adding animations to aspects of pages (hover animation for headshot and other pictures, smooth scrolling for different parts of pages, etc.)
 - Make Projects page have some type of embed to give extra flair to showing off projects
     - try making a tab system that lets me have multiple images to click through and an embedded link underneath
+
+Completed Ideas/Features:
+
+- ensure routing as "multiple pages in one page" is working as intended (do testing using audio player)
+- convert m4a file to mp3 and test if looping implementation works
+- baseline for Contact Me and My Projects pages are completed, still work to be done, but baselines are finished

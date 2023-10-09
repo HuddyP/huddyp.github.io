@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'portfolio-website-v2';
+  ngAfterViewInit(): void {
+    (<any>window).twttr.widgets.load();
+  }
 }
