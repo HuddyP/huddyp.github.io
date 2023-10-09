@@ -14,6 +14,7 @@ import { MyProjectsComponent } from './webpages/my-projects/my-projects.componen
 import { ContactMeComponent } from './webpages/contact-me/contact-me.component';
 import { FooterBarComponent } from './footer-bar/footer-bar.component';
 import { AudioPlayerComponent } from './audio-player/audio-player.component';
+import { AudioFabComponent } from './audio-fab/audio-fab.component';
 
 @NgModule({
   declarations: [
@@ -26,6 +27,7 @@ import { AudioPlayerComponent } from './audio-player/audio-player.component';
     ContactMeComponent,
     FooterBarComponent,
     AudioPlayerComponent,
+    AudioFabComponent,
   ],
   imports: [
     BrowserModule,
