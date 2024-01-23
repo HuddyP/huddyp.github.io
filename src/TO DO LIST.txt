@@ -1,7 +1,6 @@
 TO DO LIST:
 
 Site Features:
-- create other pages + materials/components within them
 - look into extra features to implement to make site more impressive
 - find working library or tutorial to make an audio player COMPONENT that works on Angular 16
     - figure out if player should be integrated into a fab button, or just give it fab button properties to sit on bottom right corner of screen
@@ -9,6 +8,7 @@ Site Features:
     - FundamentalNGX
     - PrimeNG
     - NG-Bootstrap
+- Add email form to Contact Me Page
 
 Visual Flair + Personal Advertising:
 

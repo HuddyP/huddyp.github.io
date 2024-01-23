@@ -1,7 +1,35 @@
 .navbar {
-  justify-content: space-between;
+  justify-content: space-around;
+  font-size: 25px;
+  font-family: Work Sans, serif;
+  height: 10%;
 }
 
 span {
   padding-right: 1em;
+}
+
+.page-links {
+  color: white;
+  text-decoration: none;
+  font-family: Work Sans, serif;
+  font-style: italic;
+  font-size: 32px;
+}
+
+.title {
+  color: white;
+  text-decoration: none;
+  font-family: Work Sans, serif;
+  font-style: bold, italic;
+  font-size: 32px;
+}
+
+.subtitle {
+  color: white;
+  text-decoration: none;
+  font-family: Work Sans, serif;
+  font-style: italic;
+  font-size: 20px;
+  padding-right: 15em;
 }

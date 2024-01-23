@@ -1,0 +1,47 @@
+.left {
+  font-size: 16px;
+  font-family: Work Sans, serif;
+  text-align: right;
+}
+
+.right {
+  font-size: 16px;
+  font-family: Work Sans, serif;
+  text-align: left;
+}
+
+.grid-left-text {
+  position: absolute;
+  left: 100px;
+}
+
+.grid-right-text {
+  position: absolute;
+  right: 100px;
+}
+
+.image-right {
+  position: absolute;
+  right: 5px;
+}
+
+.image-left {
+  position: absolute;
+  left: 5px;
+}
+
+.image-center {
+  position: center;
+}
+
+h1 {
+  font-size: 32px;
+  text-align: center;
+  font-family: Work Sans, serif;
+}
+
+.title {
+  font-size: 45px;
+  text-align: center;
+  font-family: Work Sans, serif;
+}
