@@ -1,10 +1,12 @@
-<app-navbar></app-navbar>
+<div class="flex-wrapper">
+  <app-navbar class="header"></app-navbar>
 
-<div>
-  <router-outlet></router-outlet>
+  <div>
+    <router-outlet></router-outlet>
+  </div>
+
+  <app-footer-bar class="footer"></app-footer-bar>
 </div>
-
-<app-footer-bar></app-footer-bar>
 
 <!-- read these once functional
   <app-audio-player></app-audio-player>
