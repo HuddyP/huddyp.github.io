@@ -7,15 +7,12 @@ header {
   min-height: 50px;
   background: lightcyan;
 }
-footer {
-  min-height: 50px;
-  background: PapayaWhip;
-}
 
 html,
 body {
   display: flex;
   flex-direction: column;
+  min-height: 100vh;
 }
 
 footer {
@@ -40,4 +37,10 @@ footer {
   font-family: Work Sans, serif;
   font-style: italic;
   font-size: 32px;
+}
+
+.flex-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
 }

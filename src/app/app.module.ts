@@ -9,7 +9,6 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatButtonModule } from '@angular/material/button';
 import { MatCardModule } from '@angular/material/card';
 import { MatGridListModule } from '@angular/material/grid-list';
-import { ReactiveFormsModule } from '@angular/forms';
 
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { AboutMeComponent } from './webpages/about-me/about-me.component';
@@ -18,14 +17,12 @@ import { ContactMeComponent } from './webpages/contact-me/contact-me.component';
 import { FooterBarComponent } from './footer-bar/footer-bar.component';
 import { AudioPlayerComponent } from './audio-player/audio-player.component';
 import { AudioFabComponent } from './audio-fab/audio-fab.component';
-import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeadshotComponent,
     NavbarComponent,
-
     MyProjectsComponent,
     ContactMeComponent,
     FooterBarComponent,
@@ -41,8 +38,6 @@ import { HttpClientModule } from '@angular/common/http';
     MatCardModule,
     MatGridListModule,
     AboutMeComponent,
-    ReactiveFormsModule,
-    HttpClientModule,
   ],
   providers: [],
   bootstrap: [AppComponent],
