@@ -1,18 +1,19 @@
-body {
-  min-height: 100vh;
+* {
   margin: 0;
 }
-
-header {
-  min-height: 50px;
-  background: lightcyan;
-}
-
 html,
 body {
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
+  height: 100%;
+}
+.wrapper {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto -142px; /* the bottom margin is the negative value of the footer's height */
+}
+.footer,
+.push {
+  height: 142px; /* .push must be the same height as .footer */
 }
 
 footer {
@@ -23,7 +24,7 @@ footer {
 }
 
 .logos {
-  padding-top: 3em;
+  padding-top: 1.5em;
   padding-left: 2em;
   bottom: 0;
   left: 0;
@@ -37,10 +38,4 @@ footer {
   font-family: Work Sans, serif;
   font-style: italic;
   font-size: 32px;
-}
-
-.flex-wrapper {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-evenly;
 }

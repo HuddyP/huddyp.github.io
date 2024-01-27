@@ -8,7 +8,8 @@ Site Features:
     - FundamentalNGX
     - PrimeNG
     - NG-Bootstrap
-- Add email form to Contact Me Page
+- Adding animations to aspects of pages (hover animation for headshot and other pictures, smooth scrolling for different parts of pages, etc.)
+    - "make" CSS animations using Animista website (animsta.net)
 
 Visual Flair + Personal Advertising:
 
@@ -18,10 +19,8 @@ Visual Flair + Personal Advertising:
 - add "hover" animations to images such as headshot, to give more responsiveness and visual flair
 
 
-
 Ideas to Consider Implementing:
 
-- Adding animations to aspects of pages (hover animation for headshot and other pictures, smooth scrolling for different parts of pages, etc.)
 - Make Projects page have some type of embed to give extra flair to showing off projects
     - try making a tab system that lets me have multiple images to click through and an embedded link underneath
 

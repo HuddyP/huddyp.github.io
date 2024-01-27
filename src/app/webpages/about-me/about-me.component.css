@@ -18,6 +18,7 @@
 .grid-right-text {
   position: absolute;
   right: 100px;
+  animation-name: tracking-in-expand-fwd-bottom;
 }
 
 .image-right {
