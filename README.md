@@ -1,27 +1,15 @@
-# PortfolioWebsiteV2
+# Hudson's Portfolio Website
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.4.
+## What Is This? Why Is It a Thing?
 
-## Development server
+This is a portfolio website developed by me, Hudson "HuddyP" [REDACTED] as a way of teaching myself the Angular framework and creating a webpage to advertise myself and the projects that I've done.
+I wanted to create it as a way of adding some flair to how I present myself to employers and to keep a personal history of what I've done as a developer
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## How Did You Build This?
 
-## Code scaffolding
+With blood, sweat, tears, HTML, CSS, TypeScript and the Angular framework
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Are You Going to Maintain This?
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+The website should stay up as long as GitHub Pages is a supported feature of the site. I'm also open to adding and tweaking aspects of the site as time goes on and I become more experienced with web development.
+I recognize that the site is likely amateurish at best in its current state, but I would like to make it better over time.
