@@ -1,11 +1,21 @@
+img {
+  width: 25%;
+  height: auto;
+}
+
+.large-img {
+  width: 50%;
+  height: auto;
+}
+
 .left {
-  font-size: 16px;
+  font-size: 0.75vw;
   font-family: Work Sans, serif;
   text-align: right;
 }
 
 .right {
-  font-size: 16px;
+  font-size: 0.75vw;
   font-family: Work Sans, serif;
   text-align: left;
 }
@@ -36,7 +46,7 @@
 }
 
 h1 {
-  font-size: 32px;
+  font-size: 1.5vw;
   text-align: center;
   font-family: Work Sans, serif;
 }
@@ -45,4 +55,9 @@ h1 {
   font-size: 45px;
   text-align: center;
   font-family: Work Sans, serif;
+}
+
+.clear {
+  clear: both;
+  height: 180px;
 }

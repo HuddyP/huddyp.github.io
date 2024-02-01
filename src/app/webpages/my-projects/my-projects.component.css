@@ -1,7 +1,31 @@
 .standard-card {
   max-width: 500px;
+  width: auto;
+  height: auto;
 }
 
 .header {
+  font-size: 1.25vw;
   text-align: center;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+p {
+  font-size: 0.65vw;
+}
+
+mat-card-title {
+  font-size: 0.7vw;
+}
+
+mat-card-subtitle {
+  font-size: 0.6vw;
+}
+
+button {
+  font-size: 0.6vw;
 }
