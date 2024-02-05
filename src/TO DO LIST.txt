@@ -2,11 +2,8 @@ TO DO LIST:
 
 Site Features:
 - look into extra features to implement to make site more impressive
-- find working library or tutorial to make an audio player COMPONENT that works on Angular 16
-    - figure out if player should be integrated into a fab button, or just give it fab button properties to sit on bottom right corner of screen
 - Adding animations to aspects of pages (hover animation for headshot and other pictures, smooth scrolling for different parts of pages, etc.)
     - "make" CSS animations using Animista website (animsta.net)
-- MAKE ELEMENTS CHANGE IN RELATION TO SCREEN SIZE (VERY IMPORTANT, HIGH PRIORITY)
 
 Visual Flair + Personal Advertising:
 
@@ -20,10 +17,3 @@ Ideas to Consider Implementing:
 
 - Make Projects page have some type of embed to give extra flair to showing off projects
     - try making a tab system that lets me have multiple images to click through and an embedded link underneath
-
-Completed Ideas/Features:
-
-- ensure routing as "multiple pages in one page" is working as intended (do testing using audio player)
-- convert m4a file to mp3 and test if looping implementation works
-- baseline for Contact Me and My Projects pages are completed, still work to be done, but baselines are finished
-- website now runs on GitHub Pages
