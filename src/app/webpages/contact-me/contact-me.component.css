@@ -8,3 +8,18 @@ h3 {
   font-size: 1.25vw;
   text-align: center;
 }
+
+a {
+  font-size: 1.25vw;
+  text-decoration: none;
+  color: black;
+}
+
+.logos {
+  padding-right: 0.5em;
+  padding-top: 0.5em;
+}
+
+img {
+  max-width: 2.25%;
+}
